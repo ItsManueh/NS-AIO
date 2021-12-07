@@ -1,2 +1,2 @@
 # AIO-Atmosphere
-Switch Pack All In One
+Switch Pack All In One for Atmosphere/Hekate
