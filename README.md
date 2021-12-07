@@ -1,4 +1,4 @@
-# AIO-Atmosphere
+# AIO - NINTENDO SWITCH
 Nintendo Switch Pack All In One for Atmosphere/Hekate/SX OS
 
 PLUG & PLAY
