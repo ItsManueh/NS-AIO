@@ -1,5 +1,5 @@
 # AIO-Atmosphere
-Switch Pack All In One for Atmosphere/Hekate
+Switch Pack All In One for Atmosphere/Hekate/SX OS
 
 Firmware compatible: 13.2.0
 
