@@ -11,8 +11,6 @@ Currently 5.6.5
 
 Ready with safe start
 
-Support Nintendo Switch V2 Mariko versions or lite [Firmware 13.x.x]
-
 [Atmosphere]
 
 Currently 1.2.5
