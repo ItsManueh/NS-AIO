@@ -27,15 +27,20 @@ Supported 1.0.0 - 13.2.0
 
 If you use SX CORE dont use boot.dat modified from this repository is unnecessary 🤥
 
+----------------------------------------------------------------------------------------------
+
 Currently 3.1.0 Beta {Out of phase}
 
 Supported 1.0.0 - 11.0.x
+
+----------------------------------------------------------------------------------------------
 
 license.dat totally free with boot.dat modified (to boot license.dat spoofer)
 
 [Remember] to have the license.dat file to start sx os. 
   If you don't have it, start with atmosphere.
   
+----------------------------------------------------------------------------------------------
 
 # Blocking Servers Nintendo for Avoid Banning
 
