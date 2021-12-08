@@ -24,6 +24,7 @@ Supported 1.0.0 - 13.2.0
 [SX OS]
 
 ⚠️ Pls use the modified boot.dat from this repository for the free license.dat to work
+
 If you use SX CORE dont use boot.dat modified from this repository is unnecessary 🤥
 
 Currently 3.1.0 Beta {Out of phase}
