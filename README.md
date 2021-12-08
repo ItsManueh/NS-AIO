@@ -56,8 +56,8 @@ Nintendo America Servers
   - Secundary DNS: 163.172.141.219
 
 (Use 90DNS Tester homebrew for check)
+
 ![90DNS](img/90DNS.jpg?raw=true)
-=====
 
 # Credits
 
