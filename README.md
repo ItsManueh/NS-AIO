@@ -3,9 +3,32 @@ Nintendo Switch Pack All In One for Atmosphere/Hekate/SX OS
 
 Download the last [Release](https://github.com/ItsManueh/AIO-NS/releases/download/13.2.0-1.2.5/13.2.0.-.1.2.5.zip) 07/12/2021
 
-Firmware compatible: 13.2.0
+# Bootloader
 
-# Blocking Servers Nintendo for avoid Banning
+[Hekate Bootloader]
+
+Currently 5.6.5
+
+Ready with safe start
+
+Support Nintendo Switch V2 Mariko versions or lite [Firmware 13.x.x]
+
+[Atmosphere]
+
+Currently 1.2.5
+
+Supported 1.0.0 - 13.2.0
+
+[SX OS]
+
+Currently 3.1.0 Beta {Out of phase}
+
+Supported 1.0.0 - 11.0.x
+
+- Warning: Remember to have the license.dat file to start sx os. 
+  If you don't have it, start with atmosphere.
+
+# Blocking Servers Nintendo for Avoid Banning
 
 90DNS
 
@@ -18,6 +41,17 @@ Nintendo America Servers
   - Secundary DNS: 163.172.141.219
 
 (Use 90DNS Tester homebrew for check)
+
+# Credits
+
+- Atmosphere
+  https://github.com/Atmosphere-NX/Atmosphere
+
+- Hekate CTCaer
+  https://github.com/CTCaer/hekate
+
+- TegraRCMGui
+  https://github.com/eliboa/TegraRcmGUI/releases
 
 # Update this repository
 
