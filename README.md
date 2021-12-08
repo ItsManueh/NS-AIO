@@ -9,13 +9,13 @@ Download the last [Release](https://github.com/ItsManueh/AIO-NS/releases/downloa
 
 Currently 5.6.5
 
-Ready with safe start
 
 [Atmosphere]
 
 Currently 1.2.5
 
 Supported 1.0.0 - 13.2.0
+
 
 [SX OS]
 
@@ -29,6 +29,7 @@ license.dat totally free with boot.dat modified (to boot license.dat spoofer)
 
 [Remember] to have the license.dat file to start sx os. 
   If you don't have it, start with atmosphere.
+  
 
 # Blocking Servers Nintendo for Avoid Banning
 
