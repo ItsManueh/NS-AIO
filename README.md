@@ -42,8 +42,6 @@ license.dat totally free with boot.dat modified (to boot license.dat spoofer)
 
 [Remember] to have the license.dat file to start sx os. 
   If you don't have it, start with atmosphere.
-  
---------------------------------------------
 
 # Blocking Servers Nintendo for Avoid Banning
 
