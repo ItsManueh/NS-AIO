@@ -1,6 +1,8 @@
 # AIO - NINTENDO SWITCH
 Nintendo Switch Pack All In One for Atmosphere/Hekate/SX OS
 
+Release (https://github.com/ItsManueh/AIO-NS/edit/main/README.md)
+
 PLUG & PLAY
 
 Firmware compatible: 13.2.0
