@@ -8,8 +8,9 @@ Download the last [Release](https://github.com/ItsManueh/AIO-NS/releases/downloa
 [Hekate Bootloader]
 
 ⚠️ For Switch V2 Mariko or Lite
-Use hekate_keys.ini for launch CFW download from *Source Code*
-Put hekate_keys.ini on bootloader
+- Use hekate_keys.ini for launch CFW download from *Source Code*
+
+- Put hekate_keys.ini on bootloader
 
 Currently 5.6.5
 
