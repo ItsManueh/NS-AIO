@@ -1,7 +1,7 @@
 # AIO - NINTENDO SWITCH
 Nintendo Switch Pack All In One for Atmosphere/Hekate/SX OS
 
-![Release Date 07/12/2021](https://github.com/ItsManueh/AIO-NS/releases/download/13.2.0-1.2.5/13.2.0.-.1.2.5.zip)
+[Last Release](https://github.com/ItsManueh/AIO-NS/releases/download/13.2.0-1.2.5/13.2.0.-.1.2.5.zip)
 
 PLUG & PLAY
 
