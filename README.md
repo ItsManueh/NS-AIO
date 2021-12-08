@@ -1,7 +1,7 @@
 # AIO - NINTENDO SWITCH
 Nintendo Switch Pack All In One for Atmosphere/Hekate/SX OS
 
-Download the last [Release](https://github.com/ItsManueh/AIO-NS/releases/download/13.2.0-1.2.5/13.2.0.-.1.2.5.zip) 07/12/2021
+Download the last [Release](https://github.com/ItsManueh/AIO-NS/releases/download/13.2.0-1.2.5/13.2.0.-.1.2.5.zip) 08/12/2021
 
 # Bootloader
 
@@ -23,7 +23,8 @@ Supported 1.0.0 - 13.2.0
 
 [SX OS]
 
-⚠️ Pls use the modified boot.dat from this repository for the license.dat to work
+⚠️ Pls use the modified boot.dat from this repository for the free license.dat to work
+If you use SX CORE dont use boot.dat modified from this repository is unnecessary 🤥
 
 Currently 3.1.0 Beta {Out of phase}
 
@@ -62,4 +63,4 @@ Nintendo America Servers
 
 # Update this repository
 
-07/12/2021
+08/12/2021
