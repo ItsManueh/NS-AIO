@@ -7,7 +7,8 @@ Firmware compatible: 13.2.0
 
 # Blocking Servers Nintendo for avoid Banning
 
-- 90DNS
+90DNS
+
 Nintendo Europe Servers
   - Primary DNS: 163.172.141.219
   - Secundary DNS: 207.246.121.77
