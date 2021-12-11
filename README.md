@@ -22,7 +22,7 @@ Currently 1.2.5
 
 Supported 1.0.0 - 13.2.0
 
-![HEKATE1](img/hekate1.bmp?raw=true)
+![HEKATE1](img/hekate.bmp?raw=true)
 
 ![HEKATE2](img/hekate2.bmp?raw=true)
 
