@@ -34,7 +34,7 @@ Supported 1.0.0 - 13.2.0
 
 If you use SX CORE dont use boot.dat modified from this repository is unnecessary 🤥
 
-Remember to edit license.rename to license.dat
+Remember to edit licensedat.rename to license.dat
 
 --------------------------------------------
 
