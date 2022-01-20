@@ -1,7 +1,7 @@
 # NS-AIO
 Nintendo Switch Pack All In One for Atmosphere/Hekate/SX OS
 
-Download the last [Release](https://github.com/ItsManueh/AIO-NS/releases/download/13.2.0-1.2.5/13.2.0-1.2.5.zip) 08/12/2021
+Download the last [Release](https://github.com/ItsManueh/NS-AIO/releases/download/13.2.1-1.26/13.2.1-1.2.6.zip) 20/01/2022
 
 # Bootloader
 
@@ -22,9 +22,9 @@ Currently 5.6.5
 
 [Atmosphere]
 
-Currently 1.2.5
+Currently 1.2.6
 
-Supported 1.0.0 - 13.2.0
+Supported 1.0.0 - 13.2.1
 
 --------------------------------------------
 
@@ -73,7 +73,10 @@ Nintendo America Servers
 
 - TegraRCMGui
   https://github.com/eliboa/TegraRcmGUI/releases
+  
+- ITotalJustice
+  https://github.com/ITotalJustice/patches
 
 # Update this repository
 
-08/12/2021
+20/01/2022
